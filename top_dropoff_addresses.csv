@@ -1,0 +1,81 @@
+vehicle_type, Destination Address(s),dropoff_count
+BUS, 2300 Mcphillips St,7303
+BUS, 820 Sherbrook St,6333
+BUS, 409 Tache Ave,4095
+BUS, 1225 St Mary's Rd,1828
+BUS, 1485 Portage Ave,1232
+BUS, 700 William Ave,1209
+BUS, 1555 Regent Ave W,921
+BUS, 2305 Mcphillips St,898
+BUS, 765 Sherbrook St,893
+BUS, 1075 Leila Ave,836
+BUS, 1120 Grant Ave,822
+BUS, 610 Portage Ave,718
+BUS, 901 Airlies St,669
+BUS, 99 Cornish Ave,654
+BUS, 528 Hudson St,578
+BUS, 1010 Sinclair St,573
+BUS, 1 Morley Ave,565
+BUS, 1 Forks Market Rd,552
+BUS, 1390 Taylor Ave,548
+BUS, 320 Sherbrook St,530
+CAR, 2300 Mcphillips St,8676
+CAR, 409 Tache Ave,6064
+CAR, 820 Sherbrook St,4091
+CAR, 765 Sherbrook St,3508
+CAR, 1225 St Mary's Rd,1311
+CAR, 1390 Taylor Ave,1164
+CAR, 1075 Leila Ave,1041
+CAR, 1080 Portage Ave,1029
+CAR, 700 William Ave,984
+CAR, 425 St Mary Ave,844
+CAR, 1120 Grant Ave,790
+CAR, 1485 Portage Ave,671
+CAR, 99 Cornish Ave,624
+CAR, 610 Portage Ave,551
+CAR, 1660 Henderson Hwy,549
+CAR, 1 Morley Ave,545
+CAR, 21 Clayton Dr,545
+CAR, 75 Poseidon Bay,536
+CAR, 285 Pembina Hwy,522
+CAR, 675 McDermot Ave,510
+VAN, 2300 Mcphillips St,1004
+VAN, 820 Sherbrook St,851
+VAN, 409 Tache Ave,650
+VAN, 1225 St Mary's Rd,322
+VAN, 765 Sherbrook St,229
+VAN, 700 William Ave,200
+VAN, 1485 Portage Ave,193
+VAN, 1555 Regent Ave W,134
+VAN, 2305 Mcphillips St,132
+VAN, 110 Adamar Rd,116
+VAN, 1120 Grant Ave,114
+VAN, 1080 Portage Ave,113
+VAN, 1 Morley Ave,112
+VAN, 234 Donald St,112
+VAN, 204 Watson St,110
+VAN, 15 Kennedy St,90
+VAN, 167 Lombard Ave,88
+VAN, 99 Cornish Ave,88
+VAN, 800 Sherbrook St,86
+VAN, 120 Donald St,83
+Winnipeg WAV, 2300 Mcphillips St,218
+Winnipeg WAV, 820 Sherbrook St,130
+Winnipeg WAV, 409 Tache Ave,120
+Winnipeg WAV, 491 Hazel Dell Ave,101
+Winnipeg WAV, 50 Alpine Ave,96
+Winnipeg WAV, 135 Plaza Dr,72
+Winnipeg WAV, 1225 St Mary's Rd,52
+Winnipeg WAV, 700 William Ave,48
+Winnipeg WAV, 1 Morley Ave,34
+Winnipeg WAV, 434 Adsum Dr,34
+Winnipeg WAV, 1655 Leila Ave,32
+Winnipeg WAV, 1075 Leila Ave,30
+Winnipeg WAV, 1485 Portage Ave,30
+Winnipeg WAV, 303 Stanley St,30
+Winnipeg WAV, 1555 Regent Ave W,29
+Winnipeg WAV, 2109 Portage Ave,29
+Winnipeg WAV, 1390 Taylor Ave,28
+Winnipeg WAV, 24 Gundy Lake Bay,27
+Winnipeg WAV, 4219 Roblin Blvd,26
+Winnipeg WAV, 13 Springwood Dr,24

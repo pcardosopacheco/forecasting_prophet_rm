@@ -1,0 +1,81 @@
+vehicle_type, Origin Address(s),pickup_count
+BUS, 2300 Mcphillips St,7840
+BUS, 820 Sherbrook St,6143
+BUS, 409 Tache Ave,4050
+BUS, 1225 St Mary's Rd,1777
+BUS, 1485 Portage Ave,1203
+BUS, 700 William Ave,1120
+BUS, 765 Sherbrook St,1016
+BUS, 2305 Mcphillips St,911
+BUS, 1555 Regent Ave W,882
+BUS, 1120 Grant Ave,789
+BUS, 1075 Leila Ave,717
+BUS, 610 Portage Ave,715
+BUS, 901 Airlies St,659
+BUS, 528 Hudson St,599
+BUS, 99 Cornish Ave,577
+BUS, 151 Watson St,564
+BUS, 1010 Sinclair St,561
+BUS, 1 Morley Ave,558
+BUS, 1 Forks Market Rd,532
+BUS, 320 Sherbrook St,532
+CAR, 2300 Mcphillips St,8198
+CAR, 409 Tache Ave,5899
+CAR, 820 Sherbrook St,4276
+CAR, 765 Sherbrook St,3592
+CAR, 1225 St Mary's Rd,1361
+CAR, 1390 Taylor Ave,1204
+CAR, 1080 Portage Ave,1164
+CAR, 1075 Leila Ave,1154
+CAR, 700 William Ave,900
+CAR, 1120 Grant Ave,818
+CAR, 425 St Mary Ave,752
+CAR, 1 Morley Ave,627
+CAR, 1485 Portage Ave,612
+CAR, 610 Portage Ave,569
+CAR, 99 Cornish Ave,544
+CAR, 21 Clayton Dr,535
+CAR, 1660 Henderson Hwy,513
+CAR, 135 Niakwa Rd,499
+CAR, 285 Pembina Hwy,483
+CAR, 1590 Henderson Hwy,473
+VAN, 2300 Mcphillips St,809
+VAN, 820 Sherbrook St,647
+VAN, 409 Tache Ave,455
+VAN, 1225 St Mary's Rd,272
+VAN, 1485 Portage Ave,160
+VAN, 700 William Ave,148
+VAN, 765 Sherbrook St,139
+VAN, 1555 Regent Ave W,127
+VAN, 2305 Mcphillips St,123
+VAN, 204 Watson St,113
+VAN, 1 Morley Ave,110
+VAN, 110 Adamar Rd,109
+VAN, 1120 Grant Ave,105
+VAN, 15 Kennedy St,101
+VAN, 234 Donald St,96
+VAN, 99 Cornish Ave,90
+VAN, 120 Donald St,89
+VAN, 146 Watson St,81
+VAN, 800 Sherbrook St,79
+VAN, 670 Main St,78
+Winnipeg WAV, 491 Hazel Dell Ave,107
+Winnipeg WAV, 50 Alpine Ave,93
+Winnipeg WAV, 2300 Mcphillips St,87
+Winnipeg WAV, 4219 Roblin Blvd,52
+Winnipeg WAV, 409 Tache Ave,51
+Winnipeg WAV, 1049 Aberdeen Ave,50
+Winnipeg WAV, 1810 Ellice Ave,44
+Winnipeg WAV, 15 Kennedy St,43
+Winnipeg WAV, 820 Sherbrook St,40
+Winnipeg WAV, 170 Hendon Ave,38
+Winnipeg WAV, 24 Gundy Lake Bay,33
+Winnipeg WAV, 1389 Mcdermot Ave W,32
+Winnipeg WAV, 685 Warde Ave,31
+Winnipeg WAV, 700 William Ave,31
+Winnipeg WAV, 936 Banning St,30
+Winnipeg WAV, 17 Muir Rd,29
+Winnipeg WAV, 19 Atlas Cres,27
+Winnipeg WAV, 135 Plaza Dr,26
+Winnipeg WAV, 541 Dieppe Rd,26
+Winnipeg WAV, 1390 Taylor Ave,25
